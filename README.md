@@ -1,33 +1,33 @@
 # online-store
 ## Requirements
 
-### Unauthenticated user:
-* log in 
-* registration
-* view product catalog
-* view product details
-* filter products by category
-* view reviews
+### Неавторизированный пользователь:
+* авторизация
+* регистрация
+* просмотр каталога товаров
+* просмотр подробной информации о товаре
+* фильтрация товаров по категории
+* просмотр отзывов
 
-### Authenticated user:
-* add product to busket and delete
-* create order
-* check order history
-* create review
-* use personal discounts
-* cancel order or change order status
+### Авторизорованный пользователь:
+* добавление товара в корзину и его удаление
+* создание заказа
+* просмотр истории заказов
+* создать отзыв
+* использовать персональную скидку
+* отменить заказ
 
-### Admin
-* product catalog management
-* edit product categories
-* provider info management
-* orders management
-* discount management
-* user management
+### Админ
+* управление каталогом товаров
+* управление категориями товаров
+* управление информацией о поставщиках
+* управление заказами
+* управление скидками
+* управление пользователями
 
 
 # Diagram
-![Image alt](https://github.com/A1nzz/db-labs/raw/main/schema.png)
+![Image alt](https://github.com/A1nzz/db-labs/raw/main/schem.png)
 
 
 # Infological model
